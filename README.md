@@ -5,7 +5,7 @@ Die ersten Experimente machte ich mit SD2931-10, da ich diese gleich zur Hand ha
 Für die Bestückung der neuen Boards werden alle HF Trafo´s weiter verwendet, die Terminals passen auch, so das eine Handvoll SMD Teile bestückt werden müssen.
 Die Module passen 1:1 an die original Plätze, es müssen keine mechanischen Änderungen vorgenommen werden.
 
-In der finalen Version habe ich dann ein MP VRF150 verbaut, die Verstärkung liegt, mit eingeschalteten Abschwächer der PA, im Schnitt 3-4db höher als das Original, sie erreicht bei 25W Ansteuerung locker 500W out bis 10m.
+In der finalen Version habe ich dann ein MQ VRF150 verbaut, die Verstärkung liegt, mit eingeschalteten Abschwächer der PA, im Schnitt 3-4db höher als das Original, sie erreicht bei 25W Ansteuerung locker 500W out bis 10m.
 
 Zum Ruhestrom einstellen können die Jumper auf dem PA Board entfernt werden und für den Abgleich des jeweiligen Transistors gesteckt werden, ich habe bei meinen Modulen 250mA/Transistor eingestellt, für den Betrieb müssen dann wieder beide Jumper gesteckt werden.
 
